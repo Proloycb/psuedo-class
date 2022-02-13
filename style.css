@@ -1,0 +1,20 @@
+h1 {
+    background-color: brown;
+    border: 20px solid indigo;
+    padding: 20px;
+    margin: 10px;
+}
+span {
+    background-color: chartreuse;
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+    display: inline-block;
+
+}
+div {
+    background-color: cadetblue;
+    width: 300px;
+    height: 250px;
+    margin-top: 20px;
+}
